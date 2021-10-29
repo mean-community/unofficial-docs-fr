@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Unofficial Guide to MeanFi](README.md)
+* [Guide non officiel de MeanFi](README.md)
 
 ## Getting Started
 

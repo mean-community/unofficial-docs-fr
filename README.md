@@ -1,39 +1,41 @@
 ---
 description: >-
-  This site is maintained by the Mean DAO community and serves as a resource to
-  explore the breadth of DeFi applications associated with the Mean Protocol
-  platform and MeanFi.
+  Ce site est maintenu par la communauté Mean DAO et sert de ressource pour
+  explorer l'étendue des applications DeFi associées à la plateforme Mean
+  Protocol et à MeanFi.
 ---
 
-# Unofficial Guide to MeanFi
+# Guide non officiel de MeanFi
 
-## Is this guide approved by the community?
+​Ce guie a été rédigé par les membres de la communauté Mean Community, également connue sous le nom de Mean Apes, afin d'explorer plus en détail la plateforme décentralisée MeanFi et de présenter une variété de stratégies DeFi par lesquelles les utilisateurs peuvent tirer une valeur supplémentaire de la plateforme.
 
-This guide was written by members of the Mean Community community, also known as Mean Apes, to explore the MeanFi decentralized platform in greater detail and present a variety of DeFi strategies by which users can derive additional value from the platform.&#x20;
+## Ce guide est-il approuvé par la communauté ?
 
-This is not an official guide for Mean DAO, MeanFi, or Mean Protocol, nor it should be construed as financial advice. As always with DeFi and cryptocurrency in general, do your own research, and only invest what you’re comfortable with potentially losing.
 
-## Where can I find the official documentation?
 
-Official documentation for the Mean DAO: [docs.meanfi.com](https://docs.meanfi.com)
+Ceci n'est pas un guide officiel pour Mean DAO, MeanFi ou Mean Protocol, et ne doit pas être interprété comme un conseil financier. Comme toujours avec DeFi et les crypto-monnaies en général, faites vos propres recherches, et n'investissez que ce que vous êtes à l'aise de perdre potentiellement.
 
-## What's the link for the application?
+## Où puis-je trouver la documentation officielle ?
 
-The MeanFi application can be found here: [app.meanfi.com](https://app.meanfi.com)
+Documentation officielle de la DAO de Mean :[docs.meanfi.com](https://docs.meanfi.com)
 
-## What will I find on this website?
+## Quel est le lien pour l'application ?
 
-The goal of this website is to present a variety of tutorials, getting started guides, and investment strategies that utilize the MeanFi. Topic samples include managing money streams, DCA, vaults, borrowing and repayments, and how to integrate Mai Finance into other DeFi protocols/strategies.&#x20;
+L'application MeanFi se trouve ici : [app.meanfi.com](https://app.meanfi.com)
 
-Lastly, information on how to efficiently use Mean DAO's native token, MEAN, will be provided, as they develop.
+## Que vais-je trouver sur ce site ?
 
-## What will I not find on this website?
+L'objectif de ce site est de présenter une variété de tutoriels, de guides de démarrage et de stratégies d'investissement qui utilisent le DeFi. Les exemples de sujets comprennent la gestion des flux d'argent, le DCA, les coffres, les emprunts et les remboursements, et la façon d'intégrer Mai Finance dans d'autres protocoles/stratégies du DeFi.
 
-Some assumptions we are making are:
+Enfin, des informations sur la manière d'utiliser efficacement le jeton natif de Mean DAO, MEAN, seront fournies, au fur et à mesure de leur développement.
 
-* Readers are already aware of DeFi projects on Solana, and the Solana Ecosystem in general.
-* Have a good understanding of how cryptocurrency works, and are informed of the different risks related to the cryptocurrency industry in general.&#x20;
+## Qu'est-ce que je ne trouverai pas sur ce site ?
 
-If you have questions about the Tokenomics of MEAN, and other basic tenants of the Mean Protocol and MeanFi, please read the official documentation (link above) or join the [Discord](https://discord.meanfi.com) community.
+Voici quelques hypothèses que nous faisons :
 
-There is no OFFICIAL Telegram Community. If you join an unofficial group, do so at your own risk.
+* Les lecteurs connaissent déjà les projets de DeFi sur Solana, et l'écosystème Solana en général.
+* Avoir une bonne compréhension du fonctionnement des crypto-monnaies, et être informé des différents risques liés à l'industrie des crypto-monnaies en général.
+
+Si vous avez des questions sur la Tokenomics de MEAN, et sur d'autres principes de base du protocole Mean et de MeanFi, veuillez lire la documentation officielle (lien ci-dessus) ou rejoindre la communauté [Discord](https://discord.meanfi.com).
+
+Il n'y a pas de Communauté Telegram OFFICIELLE. Si vous rejoignez un groupe non officiel, vous le faites à vos risques et périls.
