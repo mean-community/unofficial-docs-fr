@@ -1,35 +1,35 @@
-# Deposits
+# Dépôts
 
-### Deposits
+### Dépôts
 
-Using MeanFi to deposit your fiat money in MeanFi is simple and straightforward. You can make deposits using your Credit/Debit Card, Bank Accounts (SEPA), or from another Blockchain (like Ethereum or Polygon) directly into your Solana wallet.&#x20;
+Utiliser MeanFi pour déposer votre argent fiat dans MeanFi est simple et direct. Vous pouvez effectuer des dépôts en utilisant votre carte de crédit/débit, vos comptes bancaires (SEPA), ou à partir d'une autre blockchain (comme Ethereum ou Polygon) directement dans votre portefeuille Solana.
 
-All these options will be available via menu item > **Deposits. **
+Toutes ces options seront disponibles via l'élément de menu > \*\*Dépôts. \*\*
 
 ![](../.gitbook/assets/deposits.png)
 
-See below the steps on how to make deposits into your wallet using different onramp options.
+Vous trouverez ci-dessous les étapes à suivre pour effectuer des dépôts dans votre portefeuille en utilisant différentes options de chargement.
 
 {% hint style="info" %}
-To make sure you have all the options available, you must connect your **Solana** **Wallet** first. It is required for the onramp options.&#x20;
+Pour être sûr d'avoir toutes les options disponibles, vous devez d'abord connecter votre **Solana Wallet**. Il est nécessaire pour les options de la rampe d'accès.
 {% endhint %}
 
-**Deposit from FTX**
+#### Dépôt de FTX
 
-1. **Select **option** **>** Deposit from FTX**
-2. If you have already an Account with FTX you will be prompt to login, and then enter the amount that you would like to transfer into your wallet.&#x20;
-3. If you do not have an Account with FTX you will be able to create one right there.
-4. Once FTX approves your funds, you will see them available in your wallet. _FTX usually takes a few mins to approve your transaction. For more about FTX click _[_here_](https://ftx.com/en)_._
+1. **Sélectionnez** l'option > **Dépôt à partir de FTX**
+2. Si vous avez déjà un compte chez FTX, vous serez invité à vous connecter, puis à entrer le montant que vous souhaitez transférer dans votre portefeuille.
+3. Si vous n'avez pas de compte sur FTX, vous pourrez en créer un ici même.
+4. Une fois que FTX a approuvé vos fonds, vous les verrez disponibles dans votre portefeuille. FTX prend généralement quelques minutes pour approuver votre transaction. Pour en savoir plus sur FTX, cliquez [ici.](https://ftx.com/en)
 
-**Send from Wallet / Exchange**
+#### Envoyer depuis le portefeuille / l'échange
 
-1. **Select **option > **Send from Wallet / Exchange**
-2. This will prompt you with the Account address, as well as QR code to easily scan from another wallet to make a deposit into your **Solana wallet. **
+1. \*\*Sélectionnez \*\*option > **Envoyer depuis un portefeuille / un échange**
+2. Vous serez invité à indiquer l'adresse du compte, ainsi qu'un code QR à scanner facilement depuis un autre portefeuille pour effectuer un dépôt dans votre portefeuille \*\*Solana. \*\*
 
-**Move Assets from Ethereum or Polygon**
+#### Déplacer des actifs depuis Ethereum ou Polygon
 
-1. **Select **one of the options: **Move Assets from Etherium / Polygon**
-2. This will connect you with [AllBridge](https://app.allbridge.io) which is a bridge that allows you to move assets between blockchains. Eg: Moving assets from Ethereum into Solana.&#x20;
-3. The bridge will guide you thru the steps to follow to successfully move your assets. _For more about Allbridge click _[_here_](https://allbridge.io)_. _
+1. \*\*Sélectionnez \*\*une des options : **Déplacer les actifs d'Etherium / Polygon**
+2. Vous serez alors connecté à [AllBridge](https://app.allbridge.io), un pont qui vous permet de déplacer des actifs entre les blockchains. Par exemple : déplacer des actifs d'Ethereum vers Solana.
+3. La passerelle vous guidera dans les étapes à suivre pour réussir le transfert de vos biens. \_Pour en savoir plus sur Allbridge, cliquez [ici](https://allbridge.io). \_
 
-### ****
+### \*\*\*\*

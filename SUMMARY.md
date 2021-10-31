@@ -4,23 +4,23 @@
 
 ## Getting Started
 
-* [Connecting your Wallet](getting-started/connecting-to-meanfi.md)
-* [Accounts](getting-started/accounts.md)
+* [Connecter votre porte-monnaie](getting-started/connecting-to-meanfi.md)
+* [Comptes](getting-started/accounts.md)
 * [Exchange](getting-started/your-wallet.md)
-* [Transfers](getting-started/transfers.md)
-* [Deposits](getting-started/deposits.md)
-* [Withdrawals](getting-started/withdrawals.md)
-* [Tools & Services](getting-started/tools-and-services.md)
+* [Transferts](getting-started/transfers.md)
+* [Dépôts](getting-started/deposits.md)
+* [Retraits d'argent](getting-started/withdrawals.md)
+* [Outils et services](getting-started/tools-and-services.md)
 
 ## Mean University
 
-* [Dollar Cost Averaging](mean-university/dollar-cost-averaging.md)
-* [Remittances](mean-university/remittances.md)
-* [Payroll & Salaries](mean-university/payroll-and-salaries.md)
+* [Calcul des moyennes du coût en dollars](mean-university/dollar-cost-averaging.md)
+* [Envois de fonds](mean-university/remittances.md)
+* [Salaires et traitements](mean-university/payroll-and-salaries.md)
 
 ## Medium Articles
 
-* [The Mean Protocol and MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
+* [Le protocole Mean et MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
 
 ## Get involved
 

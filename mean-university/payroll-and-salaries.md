@@ -1,3 +1,3 @@
-# Payroll & Salaries
+# Salaires et traitements
 
-Pay your employees and maintain a healthy cash flow for your business.
+Payez vos employés et maintenez un flux de trésorerie sain pour votre entreprise.

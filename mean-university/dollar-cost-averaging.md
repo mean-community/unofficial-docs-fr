@@ -1,3 +1,3 @@
-# Dollar Cost Averaging
+# Calcul des moyennes du coût en dollars
 
-How to grow your money stash by DCA in a self-custody way using MeanFi
+Comment faire fructifier votre réserve d'argent par DCA de manière autonome en utilisant MeanFi.
