@@ -20,6 +20,7 @@
 
 ## Medium Articles
 
+* [Lancement du jeton MEAN et IDO](medium-articles/lancement-du-jeton-mean-et-ido.md)
 * [Le Protocole Mean et MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
 
 ## Get involved
