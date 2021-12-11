@@ -20,7 +20,7 @@
 
 ## Medium Articles
 
-* [Le protocole Mean et MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
+* [Le Protocole Mean et MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
 
 ## Get involved
 
