@@ -20,6 +20,7 @@
 
 ## Medium Articles
 
+* [Mean Protocol intègre les flux de prix Chainlink pour aider à sécuriser les DCA et les flux d'argent](medium-articles/mean-protocol-integre-les-flux-de-prix-chainlink-pour-aider-a-securiser-les-dca-et-les-flux-dargent.md)
 * [Lancement du jeton MEAN et IDO](medium-articles/lancement-du-jeton-mean-et-ido.md)
 * [Le Protocole Mean et MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
 
