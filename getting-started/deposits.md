@@ -8,10 +8,10 @@ Toutes ces options seront disponibles via l'élément de menu > \*\*Dépôts. \*
 
 ![](../.gitbook/assets/deposits.png)
 
-Vous trouverez ci-dessous les étapes à suivre pour effectuer des dépôts dans votre portefeuille en utilisant différentes options de chargement.
+Vous trouverez ci-dessous les étapes à suivre pour effectuer des dépôts dans votre portefeuille en utilisant différentes méthodes d'approvisionnement.
 
 {% hint style="info" %}
-Pour être sûr d'avoir toutes les options disponibles, vous devez d'abord connecter votre **Solana Wallet**. Il est nécessaire pour les options de la rampe d'accès.
+Pour être sûr d'avoir toutes les options disponibles, vous devez d'abord connecter votre **Wallet Solana**. Il est nécessaire pour les options de la rampe d'accès.
 {% endhint %}
 
 #### Dépôt de FTX
@@ -30,6 +30,6 @@ Pour être sûr d'avoir toutes les options disponibles, vous devez d'abord conne
 
 1. \*\*Sélectionnez \*\*une des options : **Déplacer les actifs d'Etherium / Polygon**
 2. Vous serez alors connecté à [AllBridge](https://app.allbridge.io), un pont qui vous permet de déplacer des actifs entre les blockchains. Par exemple : déplacer des actifs d'Ethereum vers Solana.
-3. La passerelle vous guidera dans les étapes à suivre pour réussir le transfert de vos biens. \_Pour en savoir plus sur Allbridge, cliquez [ici](https://allbridge.io). \_
+3. La passerelle vous guidera dans les étapes à suivre pour réussir le transfert de vos biens. Pour en savoir plus sur Allbridge, cliquez [ici](https://allbridge.io).&#x20;
 
 ### \*\*\*\*

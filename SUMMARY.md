@@ -9,12 +9,12 @@
 * [Exchange](getting-started/your-wallet.md)
 * [Transferts](getting-started/transfers.md)
 * [Dépôts](getting-started/deposits.md)
-* [Retraits d'argent](getting-started/withdrawals.md)
+* [Retraits](getting-started/withdrawals.md)
 * [Outils et services](getting-started/tools-and-services.md)
 
 ## Mean University
 
-* [Calcul des moyennes du coût en dollars](mean-university/dollar-cost-averaging.md)
+* [Calcul des moyennes du coût - DCA](mean-university/dollar-cost-averaging.md)
 * [Envois de fonds](mean-university/remittances.md)
 * [Salaires et traitements](mean-university/payroll-and-salaries.md)
 

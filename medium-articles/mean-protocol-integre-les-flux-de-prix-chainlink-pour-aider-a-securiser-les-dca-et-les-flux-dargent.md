@@ -8,17 +8,17 @@ description: >-
 
 ![](https://miro.medium.com/max/1000/0\*vqDsx7itCCQ9cwYs)
 
-Nous sommes ravis d'annoncer que Mean Protocol, la première plateforme de streaming et d'automatisation de l'argent à Solana, intègre les flux de prix Chainlink dans ses smart contracts. Grâce à cette intégration dans le réseau oracle leader du secteur, Mean Protocol et MeanFi auront accès à des données de prix inviolables et précises qui agiront comme un disjoncteur pour empêcher l'exécution automatique des flux de travail dans des conditions de marché extrêmes. Par conséquent, les utilisateurs, les trésoriers et les bénéficiaires de flux d'argent pourront configurer les besoins précis dans lesquels leur DCA sera exécuté.
+Nous sommes ravis d'annoncer que Mean Protocol, la première plateforme de streaming et d'automatisation de transferts d'actifs sur Solana, intègre les flux de prix de l'oracle Chainlink dans ses smart contracts. Grâce à cette intégration dans le réseau oracle leader du secteur, Mean Protocol et MeanFi auront accès à des données de prix inviolables et précises qui agiront comme un disjoncteur pour empêcher l'exécution automatique des flux de travail dans des conditions de marché extrêmes. Par conséquent, les utilisateurs, les trésoriers et les bénéficiaires de flux d'argent pourront configurer les besoins précis dans lesquels leur DCA sera exécuté.
 
 Nous avons choisi Chainlink comme première solution oracle en raison de son approche de tolérance zéro en matière de sécurité et de fiabilité. Ils sont la référence en matière de précision et de résilience en cas de volatilité extrême du marché, de temps d'arrêt de la bourse ou de l'API, et d'attaques de manipulation de données comme les attaques de prêts flash. De plus, les flux de prix Chainlink sur Solana peuvent publier des mises à jour d'oracle sur la chaîne à des fréquences inférieures à la seconde, ce qui permet de garantir que les données de prix reflètent les conditions du marché en temps réel.
 
 ### Sécuriser le protocole moyen avec Chainlink
 
-Notre pain et notre beurre à Mean DAO est l'automatisation de DeFi. Depuis le tout début, nous avons entrepris de construire le pont entre TradFi et DeFi pour embarquer le prochain milliard d'utilisateurs de crypto-monnaies. Dans le cadre de ce voyage, nous avons créé des outils pour rendre les actifs plus liquides, plus efficaces en termes de capital et plus composables. Nous le faisons par le biais du Money Streaming et des DCA, et tous deux seront en mesure de tirer parti de cette intégration avec Chainlink.
+Notre pain et notre beurre à Mean DAO est l'automatisation de la DeFi. Depuis le tout début, nous avons entrepris de construire le pont entre la Finance Traditionnelle et la DeFi pour embarquer le prochain milliard d'utilisateurs des crypto-monnaies. Dans le cadre de ce voyage, nous avons créé des outils pour rendre les actifs plus liquides, plus efficaces en termes de capital et plus composables. Nous le faisons par le biais du Money Streaming et des DCA, et tous deux seront en mesure de tirer parti de cette intégration avec Chainlink.
 
 ### Flux d'argent
 
-Les flux d'argent permettent une distribution de valeur en temps réel avec une efficacité maximale du capital. Ils sont un lego monétaire essentiel pour rendre le flux de valeur dans DeFi, aussi liquide, transparent et efficace qu'il peut l'être. Des flux de travail tels que "**Prendre 20% de mon flux monétaire salarial, l'acheminer vers un protocole de prêt, en emprunter 50 % en USDC, l'échanger en SOL et en placer 100%**" sont désormais possibles dans Solana grâce aux Mean Money Streams.&#x20;
+Les flux d'argent permettent une distribution de valeur en temps réel avec une efficacité maximale du capital. Ils sont un lego monétaire essentiel pour rendre le flux de valeur dans DeFi, aussi liquide, transparent et efficace qu'il peut l'être. Des flux de travail tels que "**Consacrer 20% de mon flux monétaire salarial, l'acheminer vers un protocole de prêt, en emprunter 50 % en USDC, l'échanger en SOL et en placer 100%**" sont désormais possibles dans Solana grâce aux Mean Money Streams.&#x20;
 
 Cependant, vous pouvez voir que les conditions entourant le "piping" d'un flux d'argent pourraient être exploitées si un oracle de prix ne supporte pas un sous-ensemble de ces conditions.
 
@@ -28,7 +28,7 @@ Disons, par exemple, que vous voulez envoyer 20 % de votre salaire à un DEX pou
 
 ### DCA Décentralisés
 
-Mean Protocol offre le premier DCA décentralisé sur Solana. Nos utilisateurs profitent de l'interface familière et de la commodité de flux de travail tels que "**Acheter 15 dollars de SOL chaque semaine**" de manière autonome, sans permission et sans confiance.
+Mean Protocol offre le premier DCA décentralisé sur Solana. Nos utilisateurs profitent de l'interface familière et de la commodité de flux de travail tels que "**Acheter 15 dollars de SOL chaque semaine**" de manière autonome, sans permission et sans tiers de confiance.
 
 ![](https://miro.medium.com/max/700/0\*OXF0BWwfKE6FScXX)
 
@@ -53,4 +53,4 @@ Vous pouvez en savoir plus sur Chainlink en visitant [chain.link](https://chain.
 
 Nous sommes très heureux de cette intégration avec Chainlink qui apporte des fonctions de sécurité supplémentaires à Mean Protocol et MeanFi. Elle renforcera encore notre position de meilleure expérience DeFi à travers Solana.
 
-Restez au courant de nos progrès chaque semaine et rejoignez la révolution DeFi en consultant notre site Internet [website](https://meanfi.com), rejoindre la Mean DAO [Discord](https://discord.meanfi.com), et suivants [@MeanFinance on Twitter](https://twitter.com/meanfinance).
+Restez au courant de nos progrès chaque semaine et rejoignez la révolution DeFi en consultant notre site Internet [website](https://meanfi.com), rejoindre la Mean DAO [Discord](https://discord.meanfi.com), et en suivant [@MeanFinance on Twitter](https://twitter.com/meanfinance).

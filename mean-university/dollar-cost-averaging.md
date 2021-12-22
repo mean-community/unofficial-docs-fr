@@ -1,3 +1,3 @@
-# Calcul des moyennes du coût en dollars
+# Calcul des moyennes du coût - DCA
 
-Comment faire fructifier votre réserve d'argent par DCA de manière autonome en utilisant MeanFi.
+Comment faire fructifier votre épargne en utilisant le DCA (Dollar Cost Average) de manière autonome en utilisant MeanFi.
